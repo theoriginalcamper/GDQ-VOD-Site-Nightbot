@@ -1,0 +1,19 @@
+{
+  "name": "gdq-vod-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheOriginalCamper",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.14.0",
+    "fuzzyset.js": "0.0.1",
+    "fuse.js": "2.6.1",
+    "jsonfile": "^2.3.1",
+    "request": "^2.73.0",
+    "winston": "^2.2.0"
+  }
+}
